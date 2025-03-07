@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "memory.h": "c",
+        "__bit_reference": "c",
+        "__split_buffer": "c",
+        "string": "c",
+        "vector": "c",
+        "common.h": "c",
+        "__hash_table": "c",
+        "__tree": "c",
+        "array": "c",
+        "iterator": "c",
+        "set": "c",
+        "string_view": "c",
+        "unordered_map": "c",
+        "__tuple": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "variant": "c",
+        "chrono": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "chunk.h": "c",
+        "debug.h": "c"
+    }
+}
