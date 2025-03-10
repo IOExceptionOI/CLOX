@@ -23,6 +23,7 @@
         "compare": "c",
         "cstddef": "c",
         "chunk.h": "c",
-        "debug.h": "c"
+        "debug.h": "c",
+        "value.h": "c"
     }
 }
